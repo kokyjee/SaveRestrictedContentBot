@@ -6,9 +6,9 @@ services:
     build: .
     command: bash bash.sh
     environment:
-      API_ID: # Your API HASH from my.telegram.org
-      API_HASH: # Your API ID from my.telegram.org
-      BOT_TOKEN: # Bot token, get it from @BotFather 
-      SESSION: # Pyrogram string session
-      AUTH: # User ID of Bot owner
-      FORCESUB: # Username name of public channel without using '@'
+      API_ID: # 21846934
+      API_HASH: # 6dd847fedba17e9908ee6843dbc216b3
+      BOT_TOKEN: # 6035057364:AAGUKegD4AKErz4xqYsRIeJlqb8KbbQLBh0 
+      SESSION: # BQBwURlpXu_IAgiJFkwjyqEOwwFukfsWZ1miTmxQk7NTRmJeKxn46WYR1PRgu53kf6VIfhrnT-DEZJTgldl_dyWer3D3rcA4o5vdcGHO6Ow7Txhg5zwRbrcI5Wscc65NJVK4Sv1tdxx86NjEnHBluvyHz9FjI-xvEJYGptLW0y0aYieHTFXueSPXjR9rqErlMD2pXkO74PQE3u3WQ6xWdFeOsUEN26JaNSJIml421r1Oljk43r0A5T0VNhTlhwpw2kcqCLpStb93KNJ2E2NRtuRcr4yBDqNojZTvDqAqxH6y34nXO-fUmz9kv5fizbQVYLnf6w42_edTQMCJe7P-j0BbI_QXZQA
+      AUTH: # 603199333
+      FORCESUB: # kokyjee
